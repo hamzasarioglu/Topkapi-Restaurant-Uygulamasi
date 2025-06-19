@@ -1,0 +1,46 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Android
+.gradle/
+local.properties
+GeneratedPluginRegistrant.java
+*.keystore
+*.jks
+key.properties
+android/key.properties
+
+# Gradle
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+.gradle/
+.cxx/
+
+# iOS
+Pods/
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Runner.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Capture files
+captures/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
